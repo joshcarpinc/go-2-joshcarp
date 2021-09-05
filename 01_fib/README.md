@@ -7,6 +7,8 @@
 func fib(n int)
 ```
 
+foobar
+
 Call `fib(7)` in `main` to print
 
 ```
